@@ -1,5 +1,7 @@
 # DataCamp Machine Learning Scientist Track
 
+- [1. Supervised Learning with scikit-learn](./1. Supervised Learning with scikit-learn): covers classification, regression, funr-tuning of models and preprocessing and pipelines.
+
 ## Setup
 
 Create the virtual environment:
