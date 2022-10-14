@@ -1,7 +1,7 @@
 # DataCamp Machine Learning Scientist Track
 
-- [x] [1. Supervised Learning with scikit-learn](./1.%20Supervised%20Learning%20with%20scikit-learn): covers classification, regression, fune-tuning of models and preprocessing and pipelines.
-- [ ] [2. Unsupervised Learning in Python](./https://github.com/harrybaines/DataCamp-ML-Scientist-Track/tree/main/2.%20Unsupervised%20Learning%20in%20Python): covers clustering for dataset exploration, visualisation with hierarchical clustering and t-SNE, decorrelating your data and dimension reduction, and discovering interpretable features.
+- ✅ [1. Supervised Learning with scikit-learn](./1.%20Supervised%20Learning%20with%20scikit-learn): covers classification, regression, fune-tuning of models and preprocessing and pipelines.
+- ⚙ [2. Unsupervised Learning in Python](./https://github.com/harrybaines/DataCamp-ML-Scientist-Track/tree/main/2.%20Unsupervised%20Learning%20in%20Python): covers clustering for dataset exploration, visualisation with hierarchical clustering and t-SNE, decorrelating your data and dimension reduction, and discovering interpretable features.
 
 ## Setup
 
