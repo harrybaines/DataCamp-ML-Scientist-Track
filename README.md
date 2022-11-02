@@ -7,8 +7,8 @@ A great interactive, introductory and refresher online course for data science a
 The completed courses so far are:
 
 - [x] [1. Supervised Learning with scikit-learn](./1.%20Supervised%20Learning%20with%20scikit-learn): covers classification, regression, fune-tuning of models and preprocessing and pipelines.
-- [x] [2. Unsupervised Learning in Python](./https://github.com/harrybaines/DataCamp-ML-Scientist-Track/tree/main/2.%20Unsupervised%20Learning%20in%20Python): covers clustering for dataset exploration, visualisation with hierarchical clustering and t-SNE, decorrelating your data and dimension reduction, and discovering interpretable features.
-- [ ] [3. Linear Classifiers in Python](./https://github.com/harrybaines/datacamp-ml-scientist-track/tree/main/3.%20Linear%20Classifiers%20in%20Python): covers applying logistic regression and SVM, loss functions, logistic regression and support vector machines.
+- [x] [2. Unsupervised Learning in Python](./2.%20Unsupervised%20Learning%20in%20Python): covers clustering for dataset exploration, visualisation with hierarchical clustering and t-SNE, decorrelating your data and dimension reduction, and discovering interpretable features.
+- [ ] [3. Linear Classifiers in Python](./3.%20Linear%20Classifiers%20in%20Python): covers applying logistic regression and SVM, loss functions, logistic regression and support vector machines.
 
 ## Setup
 
